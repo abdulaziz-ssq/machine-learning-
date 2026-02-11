@@ -1,18 +1,21 @@
 # Lab 2 – Dataset Exploration
 
 ## Dataset
-(To be added)
+This project uses a tabular dataset (CSV) downloaded from an open-source platform (e.g., Kaggle / UCI / OpenML).
+The dataset contains customer-related features such as account details and services.
 
 ## Problem Type
-(To be determined)
+Classification
 
 ## Target Variable
-(To be determined)
+Churn (Yes/No)
 
 ## Problem Statement
-This lab focuses on exploring a dataset and identifying the machine learning problem type.
+The goal is to predict whether a customer will churn based on available features.
+This can help organizations identify customers at risk and take actions to retain them.
 
 ## Files
 - Lab2.ipynb
 - dataset.csv
 - methodology.png
+
